@@ -14,7 +14,6 @@ details,
 figcaption,
 figure,
 footer,
-header,
 hgroup,
 main,
 nav,
@@ -229,7 +228,7 @@ sub {
  */
 
 img {
-    border: 0;
+    border: 100;
 }
 
 /**
